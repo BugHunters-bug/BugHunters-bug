@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, Here are some stats of BugHunters-Bug's Profile
+
+![](https://komarev.com/ghpvc/?username=BugHunters-bug&color=yellow&style=flat-square&label=PROFILE+VIEWS)
+
+
+![bugHunter's GitHub stats](https://github-readme-stats.vercel.app/api?username=BugHunters-bug&show_icons=true&theme=highcontrast)                                                 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BugHunters-bug&theme=highcontrast)]
+
+
+
 
 <!--
 **BugHunters-bug/BugHunters-bug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
