@@ -5,6 +5,7 @@
 
 ![bugHunter's GitHub stats](https://github-readme-stats.vercel.app/api?username=BugHunters-bug&show_icons=true&theme=highcontrast)                                                 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BugHunters-bug&theme=highcontrast)]
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BugHunters-bug&theme=highcontrast" alt="BugHunters" /></p>
 
 
 
